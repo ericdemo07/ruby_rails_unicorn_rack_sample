@@ -109,7 +109,7 @@ PLATFORMS
 DEPENDENCIES
   bower-rails (= 0.9.0)
   coffee-rails (~> 3.2.1)
-  mysql2
+  mysql2 (= 0.3.17)
   rails (= 3.2.19)
   sass-rails (~> 3.2.3)
   uglifier (>= 1.0.3)
